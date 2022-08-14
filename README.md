@@ -10,4 +10,7 @@ With this Telegram client, you can enjoy its beautiful Web version right in your
 
 ### Installation
 
-Just download the [setup executable file](https://www.youtube.com/channel/UCHlPOsjs-8H5hDbeBY8LZIg) from the releases
+Just download the [setup executable file](https://www.youtube.com/channel/UCHlPOsjs-8H5hDbeBY8LZIg) from the releases and follow the instructions of the installer!
+
+The installer will create all the necessary files and shortcuts and register the application in the system.
+Enjoy!
