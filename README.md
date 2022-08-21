@@ -14,3 +14,7 @@ Just download the [setup executable file](https://www.youtube.com/channel/UCHlPO
 
 The installer will create all the necessary files and shortcuts and register the application in the system.
 Enjoy!
+
+### Compatibility
+
+Compatible with Windows 11 and Windows 10
